@@ -19,12 +19,9 @@ Output
 ```
 
 _© 2023 XYZ, Inc._
-<<<<<<< HEAD
 >>>>>>> 83026bb2b9688feea1dea289ca22efd7209440dd
 
 
 
 
 
-=======
->>>>>>> c6a298e (Update README.md with bug fix)
